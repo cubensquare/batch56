@@ -1,3 +1,2 @@
 from nginx
-apt update
-apt run net-tools -y
+run apt install nano -y
