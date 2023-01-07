@@ -1,2 +1,4 @@
 from nginx
-run apt install nano -y
+apt update
+apt run net-tools -y
+copy index.html /usr/share/nginx/html/
